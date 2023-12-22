@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.074919,
+                    4.679077
+                ]
+            },
+            "properties": {
+                "id": 51,
+                "title": "Prueba 1 constructor con todo el flujo 2",
+                "shortdescription": "d",
+                "description": "f",
+                "keywords": "d",
+                "location": "BARRIOS UNIDOS",
+                "entity": "Instituto Distrital de las Artes - IDARTES",
+                "areapub": "ARTES AUDIOVISUALES",
+                "address": "Avenida Calle 80, Entrerios, Barrios Unidos, Bogotá, D.C.",
+                "price": 0.0,
+                "startdate": "2023-11-21T16:01:45.391Z",
+                "starthour": "11:02",
+                "enddate": "2023-11-23T05:00:00.000Z",
+                "endhour": "11:02",
+                "horarios": "{'horarios': [{'dia': 'Martes', 'hora_fin': '11:02', 'hora_inicio': '11:02'}], 'fecha_fin': '2023-11-23T05:00:00.000Z', 'fecha_inicio': '2023-11-21T16:01:45.391Z'}",
+                "spacecultural": "Centros de circulación",
+                "namecultural": null,
+                "scope": "",
+                "scenery": "",
+                "modality": "Presencial",
+                "contact": "3112964620",
+                "bond": "http://constructor",
+                "imgs": "imagen/descarga_kxCN4TZ.jpg",
+                "type": "Libre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11324,
+                    4.67494
+                ]
+            },
+            "properties": {
+                "id": 45,
+                "title": "nombre_evento123",
+                "shortdescription": "descripcion_mini12",
+                "description": "descripcion12",
+                "keywords": "uno",
+                "location": "ENGATIVA",
+                "entity": "Instituto Distrital de Recreación y Deporte - IDRD",
+                "areapub": "DEPORTE FORMATIVO",
+                "address": "Autoágil Ltda.-Mecánica",
+                "price": 100000.0,
+                "startdate": "2023-11-09T20:48:47.472Z",
+                "starthour": "15:49",
+                "enddate": "2023-11-11T05:00:00.000Z",
+                "endhour": "17:49",
+                "horarios": "{'horarios': [{'dia': 'Jueves', 'hora_fin': '17:49', 'hora_inicio': '15:49'}, {'dia': 'Viernes', 'hora_fin': '18:00', 'hora_inicio': '15:00'}], 'fecha_fin': '2023-11-11T05:00:00.000Z', 'fecha_inicio': '2023-11-09T20:48:47.472Z'}",
+                "spacecultural": "Centro Cultural Recreativo y Deportivo",
+                "namecultural": "nombre_espacio_cultural12",
+                "scope": "",
+                "scenery": "",
+                "modality": "Mixta",
+                "contact": "contacto12",
+                "bond": "vinculo12",
+                "imgs": "imagen/descarga_WSEzgYM.jpg",
+                "type": "Libre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11324,
+                    4.67494
+                ]
+            },
+            "properties": {
+                "id": 40,
+                "title": "nombre_evento12",
+                "shortdescription": "descripcion_mini12",
+                "description": "descripcion12",
+                "keywords": "uno",
+                "location": "ENGATIVA",
+                "entity": "Instituto Distrital de Recreación y Deporte - IDRD",
+                "areapub": "DEPORTE FORMATIVO",
+                "address": "Autoágil Ltda.-Mecánica",
+                "price": 100000.0,
+                "startdate": "2023-11-09T20:48:47.472Z",
+                "starthour": "15:49",
+                "enddate": "2023-11-11T05:00:00.000Z",
+                "endhour": "17:49",
+                "horarios": "{'horarios': [{'dia': 'Jueves', 'hora_fin': '17:49', 'hora_inicio': '15:49'}, {'dia': 'Viernes', 'hora_fin': '18:00', 'hora_inicio': '15:00'}], 'fecha_fin': '2023-11-11T05:00:00.000Z', 'fecha_inicio': '2023-11-09T20:48:47.472Z'}",
+                "spacecultural": "Centro Cultural Recreativo y Deportivo",
+                "namecultural": "nombre_espacio_cultural12",
+                "scope": "",
+                "scenery": "",
+                "modality": "Mixta",
+                "contact": "contacto12",
+                "bond": "vinculo12",
+                "imgs": "imagen/cultured_6xOfZtK.png",
+                "type": "Libre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11324,
+                    4.67494
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "title": "nombre_evento12",
+                "shortdescription": "descripcion_mini12",
+                "description": "descripcion12",
+                "keywords": "uno",
+                "location": "ENGATIVA",
+                "entity": "Instituto Distrital de Recreación y Deporte - IDRD",
+                "areapub": "DEPORTE FORMATIVO",
+                "address": "Autoágil Ltda.-Mecánica",
+                "price": 100000.0,
+                "startdate": "2023-11-09T20:48:47.472Z",
+                "starthour": "15:49",
+                "enddate": "2023-11-11T05:00:00.000Z",
+                "endhour": "17:49",
+                "horarios": "{'horarios': [{'dia': 'Jueves', 'hora_fin': '17:49', 'hora_inicio': '15:49'}, {'dia': 'Viernes', 'hora_fin': '18:00', 'hora_inicio': '15:00'}], 'fecha_fin': '2023-11-11T05:00:00.000Z', 'fecha_inicio': '2023-11-09T20:48:47.472Z'}",
+                "spacecultural": "Centro Cultural Recreativo y Deportivo",
+                "namecultural": "nombre_espacio_cultural12",
+                "scope": "",
+                "scenery": "",
+                "modality": "Mixta",
+                "contact": "contacto12",
+                "bond": "vinculo12",
+                "imgs": "imagen/cultured_6xOfZtK.png",
+                "type": "Libre"
+            }
+        }
+    ]
+}
